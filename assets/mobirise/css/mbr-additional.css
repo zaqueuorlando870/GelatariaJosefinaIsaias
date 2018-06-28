@@ -1,12 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+
+
+
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-0 .mbr-navbar__section {
   background: #000000;
 }
 #menu-0 .mbr-navbar__hamburger {
@@ -16,17 +25,61 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
-#contacts2-4 P {
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#slider-2 P {
   text-align: left;
 }
+#slider-2 H1 {
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#slider-2 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#slider-2 I {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 14px;
+  font-family: 'Lora', serif;
+  color: #efefef;
+}
+#features1-3 B {
+  color: #95da99;
+  font-family: 'Lora', serif;
+}
+#features1-3 .mbr-section-title .mbr-header__text {
+  text-align: center;
+  color: #efefef;
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+}
+#features1-3 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#contacts2-4 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+#social-buttons2-5 .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+
 
 #menu-6 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-6 .mbr-navbar__section {
   background: #000000;
 }
 #menu-6 .mbr-navbar__hamburger {
@@ -36,14 +89,42 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-6 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#header4-1i .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#header4-1i H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#header4-1i P {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
 
+
+
+
+
+
+#slider-c P {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#slider-c H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#slider-c .btn {
+  font-family: 'Indie Flower', cursive;
+}
 #menu-a .mbr-brand__name {
   font-size: 16px;
 }
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-a .mbr-navbar__section {
   background: #000000;
 }
 #menu-a .mbr-navbar__hamburger {
@@ -53,12 +134,25 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-a .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-b P {
   text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
 }
+
+
+
+
+
 
 #msg-box4-i .mbr-header__text {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
 }
 #msg-box4-i .mbr-header__subtext {
   color: #ffffff;
@@ -66,13 +160,17 @@
 #msg-box4-i .mbr-article {
   color: #ffffff;
 }
+#msg-box4-i .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box4-i .mbr-article P {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
 #menu-d .mbr-brand__name {
   font-size: 16px;
 }
 #menu-d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-d .mbr-navbar__section {
   background: #000000;
 }
 #menu-d .mbr-navbar__hamburger {
@@ -82,6 +180,261 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 17px;
 }
+#menu-d .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
 #contacts2-e P {
   text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+
+#form1-z .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#form1-z .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#menu-w .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-w .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-w .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-x P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+#form2-1h .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-t .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-t .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-u P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+
+
+#header1-p P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+}
+#header1-p H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 21px;
+}
+#header1-p .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-m .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-n P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+#gallery1-1c SMALL {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#menu-10 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-10 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-10 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-10 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-11 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+#gallery1-1q SMALL {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#menu-1j .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1j .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-1j .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-1k P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+#gallery1-1p SMALL {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#menu-1m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1m .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-1m .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-1n P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+
+#gallery1-1b SMALL {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#menu-13 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-13 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-13 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-13 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-14 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
+}
+
+
+
+#menu-16 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-16 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#menu-16 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+}
+#contacts2-17 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #cccccc;
 }
